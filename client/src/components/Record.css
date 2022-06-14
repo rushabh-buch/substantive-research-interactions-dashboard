@@ -1,0 +1,26 @@
+.record {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: solid 1px blue;
+}
+
+.record:hover {
+  border-width: 2px;
+}
+.date {
+  width: 100%;
+  border: solid 0.5 black;
+}
+
+.date_div {
+  width: fit-content;
+  margin: auto;
+}
+td {
+  width: 50%;
+  text-align: center;
+}
+table {
+  width: 100%;
+}
