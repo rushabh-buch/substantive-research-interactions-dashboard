@@ -1,5 +1,8 @@
 # substantive-research-interactions-dashboard
 
+# Frontend :  React
+# Backend / API : Node Js
+
 ## Steps to Run the App locally
 1. Go to the root folder i.e. substantive-research-interactions-dashboard
 2. npm run install-client : Install all the necessary npm packages for the client
